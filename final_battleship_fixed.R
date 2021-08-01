@@ -172,4 +172,4 @@ combat_area()
 
 
 
-knitr::stitch('final_battleship_fixed.R')
+
